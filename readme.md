@@ -1,6 +1,4 @@
-## Overview
-
-**Eastern Games Bot** is a Discord bot built with Node.js and JavaScript that provides moderation tools, music playback, and general utility commands for managing and automating a server. The project is structured to be modular, making it easy to extend or adapt for custom features and workflows. It runs on the Discord API through libraries from **:contentReference[oaicite:0]{index=0}** and the Discord ecosystem.
+**Eastern Games Bot** is a Discord bot built with Node.js and JavaScript that provides moderation tools, music playback, and general utility commands for managing and automating a server. The project is structured to be modular, making it easy to extend or adapt for custom features and workflows. 
 
 ---
 
